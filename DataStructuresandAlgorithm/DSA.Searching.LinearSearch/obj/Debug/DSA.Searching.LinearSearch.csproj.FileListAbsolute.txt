@@ -1,0 +1,6 @@
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\bin\Debug\DSA.Searching.LinearSearch.exe.config
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\bin\Debug\DSA.Searching.LinearSearch.exe
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\bin\Debug\DSA.Searching.LinearSearch.pdb
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\obj\Debug\DSA.Searching.LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\obj\Debug\DSA.Searching.LinearSearch.exe
+C:\Users\Smohandoss\Documents\GitHub\DSA\DataStructuresandAlgorithm\DSA.Searching.LinearSearch\obj\Debug\DSA.Searching.LinearSearch.pdb
